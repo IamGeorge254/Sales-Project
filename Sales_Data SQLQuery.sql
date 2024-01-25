@@ -1,6 +1,5 @@
 /*
  Sales_Data Data Explaratory
-
 */
 
 --# Checking if our data has been imported sucessfully
